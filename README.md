@@ -7,6 +7,10 @@ Practicing Data Structures And Algorithms in Java
 1. Search Algorithms
     - Linear Search
     - Binary Search
+    
+2. Sorting Algorithms
+    - Selection Sort
+    
 
 ## Author
 
